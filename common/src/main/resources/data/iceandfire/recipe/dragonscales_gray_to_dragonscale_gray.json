@@ -5,10 +5,13 @@
     "#": {
       "item": "iceandfire:dragonscales_gray"
     }
+    "D": {
+      "item": "minecraft:diamond"
+    },
   },
   "pattern": [
     "###",
-    "###",
+    "#D#",
     "###"
   ],
   "result": {
