@@ -6,9 +6,13 @@
       "item": "iceandfire:dragonscales_copper"
     }
   },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+  },
   "pattern": [
     "###",
-    "###",
+    "#D#",
     "###"
   ],
   "result": {
